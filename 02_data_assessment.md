@@ -83,14 +83,14 @@
 - 1    0.087456 is fraud. Highly imbalanced.
 
 ## Bias risks
-timestamp                     29
-amount_usd                   305
-fee                          295
-ip_address                   305
-ip_country                   301
-kyc_tier                     300
-device_trust_score           295
+- timestamp                     29
+- amount_usd                   305
+- fee                          295
+- ip_address                   305
+- ip_country                   301
+- kyc_tier                     300
+- device_trust_score           295
 
 ## Quality risks
-timestamp                     object  "should be datetime"
-amount_src                    object  "should be float"
+- timestamp                     object  "should be datetime"
+- amount_src                    object  "should be float"
